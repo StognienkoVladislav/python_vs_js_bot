@@ -8,7 +8,7 @@ bot = telebot.TeleBot(token=config.token)
 
 @bot.message_handler(commands=['start'])
 def startCommand(bot, update):
-    bot.send_message(chat_id=update.message.chat_id, text='Дарова, щеглы')
+    bot.send_message(chat_id=update.message.chat_id, text='Приветствую')
 
 
 @bot.message_handler(content_types=['text'])
