@@ -1,0 +1,18 @@
+apiai==1.2.3
+certifi==2018.4.16
+chardet==3.0.4
+Cython==0.28.2
+freeze==1.0.10
+future==0.16.0
+gcm==0.3
+idna==2.6
+numpy==1.14.2
+pyfcm==1.4.5
+pyTelegramBotAPI==3.6.2
+python-telegram-bot==10.0.2
+requests==2.18.4
+requests-toolbelt==0.8.0
+six==1.11.0
+urllib3==1.22
+vedis==0.7.0
+python_version = "3.6"
